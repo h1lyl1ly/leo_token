@@ -2,7 +2,7 @@
 <img alt="workshop/token" width="1412" src="../.resources/token.png">
 
 ## Summary
-
+DIscord handle: Will·O·Wisp | Frukt#2936
 A transparent & shielded custom token in Leo.
 
 ## How to Run
